@@ -2,4 +2,5 @@ a.out
 input
 output
 *.o
-
+*.class
+__pycache__/
